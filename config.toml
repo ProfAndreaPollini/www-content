@@ -4,8 +4,8 @@
     extended = false
   [[module.mounts]]
     source = "home"
-    target = "/content/home"
+    target = "content/home"
   [[module.mounts]]
     source = "authors"
-    target = "/content/authors"
+    target = "content/authors"
   
