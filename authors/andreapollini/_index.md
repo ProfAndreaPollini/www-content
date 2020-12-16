@@ -1,4 +1,6 @@
 +++
+
+title = "Prof. Andrea Pollini"
 # Display name
 name = "Prof. Andrea Pollini"
 
